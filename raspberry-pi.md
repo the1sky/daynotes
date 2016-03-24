@@ -100,6 +100,10 @@
         *   结果失败了,  ????
             //todo
 
+        *   推荐文章:
+            http://askubuntu.com/questions/180733/how-to-setup-an-access-point-mode-wi-fi-hotspot
+            http://www.cyberciti.biz/faq/debian-ubuntu-linux-setting-wireless-access-point/
+
     #2  配置IP地址
 
     #3  共享网络
