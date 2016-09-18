@@ -39,4 +39,9 @@
     我一般设置offsetVertical
 
 
+#####onlyActiveOnIndex
+
+    <Link onlyActiveOnIndex activeStyle={{color:'#53acff'}} to='/'>Home</Link>
+
+
 
